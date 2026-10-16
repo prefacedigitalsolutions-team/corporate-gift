@@ -1,6 +1,6 @@
 // All section import
-import ContactBanner from "../../components/Contact/ContactBanner";
-import ContactForm from "../../components/Contact/ContactForm";
+import ContactBanner from "../../components/contact/ContactBanner";
+import ContactForm from "../../components/contact/ContactForm";
 import SEO from "../../components/SEO"; // SEO Component import kiya
 
 function Contact() {
