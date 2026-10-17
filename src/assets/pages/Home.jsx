@@ -1,10 +1,12 @@
 // All section import
-import Hero from "../../components/Home/Hero";
+import Hero from "../../components/Home/hero";
 import Intro from "../../components/Home/Intro";
 import Video from "../../components/Home/Video";
 
 import Service from "../../components/Home/Service";
 import Product from "../../components/Home/Product";
+
+
 import StaticImage from "../../components/Static/StaticImage";
 import Fterproduct from "../../components/Home/About"; 
 

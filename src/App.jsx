@@ -11,7 +11,7 @@ import Footer from "./components/Footer/Footer";
 // Pages import
 import Home from "./assets/pages/Home";
 import Download from "./assets/pages/Download";
-import Blog from "./assets/pages/Bloge"; 
+import Blog from "./assets/pages/Blog"; 
 import BlogPost from "./components/Blog/BlogPost"; 
 import Contact from "./assets/pages/Contact";
 

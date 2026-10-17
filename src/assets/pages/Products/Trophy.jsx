@@ -5,7 +5,7 @@ import Galary from "../../../components/AllProducts/Galary";
 import SEO from "../../../components/SEO";
 
 // Banner image
-import banner from "../../../assets/images/trophy/trophy-banar-1.jpg";
+import banner from "../../../assets/images/trophy/Trophy-banar-1.jpg";
 
 // Automatically import all trophy images
 const trophyImages = import.meta.glob(
