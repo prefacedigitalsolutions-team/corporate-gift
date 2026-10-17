@@ -88,9 +88,9 @@ function Footer() {
           <p className="copyright-text">
             &copy; {new Date().getFullYear()} Corporate Gift Branding. All Rights Reserved.
           </p>
-          <p className="design-by">
-            Design by <a href="#" target="_blank" rel="noopener noreferrer">Preface Communications</a>
-          </p>
+         <p className="design-by">
+  Design by <a href="https://www.prefacecommunications.com" target="_blank" rel="noopener noreferrer">Preface Communications</a>
+</p>
         </div>
       </div>
 
