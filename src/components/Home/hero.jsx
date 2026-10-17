@@ -75,10 +75,10 @@ function Hero() {
         
         {/* LEFT CONTENT */}
         <div className="hero-left">
-          <span className="hero-badge">Corporate Gifts Branding</span>
+          <span className="hero-badge"></span>
 
           <h1 className="hero-title">
-            <div className="title-line"><span>YOUR CORORATE GIFTING &</span></div>
+            <div className="title-line"><span>YOUR CORORATE GIFTING & </span></div>
             <div className="title-line"><span>MERCHANDIES</span></div>
             <div className="title-line"><span>PARTNER</span></div>
           </h1>

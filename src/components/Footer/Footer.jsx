@@ -22,7 +22,7 @@ function Footer() {
               <h2>Corporate Gift Branding</h2>
             </div>
             <address>
-              Kirtishikhar Building janakpuri Distric center New Delhi,110058 India
+              Kirti Shikhar Building janakpuri Distric center New Delhi,110058 India
             </address>
             <a href="tel:+917827797247" className="phone-link">+91-7827797247</a>
             <a href="mailto:corporategiftsbranding@gmail.com" className="email-link">corporategiftbranding@gmail.com</a>

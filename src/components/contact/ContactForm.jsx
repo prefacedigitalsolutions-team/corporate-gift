@@ -260,7 +260,7 @@ function ContactForm() {
           <aside className="pro-info-panel">
             <div className="pro-info-content">
               <span className="pro-section-label">
-                Corporate Gifts Branding
+                Corporate Gift Branding
               </span>
 
               <h2>
@@ -271,7 +271,7 @@ function ContactForm() {
 
               <p className="pro-info-description">
                 We help businesses strengthen relationships through
-                carefully curated cCorporate Gifts Branding.
+                carefully curated Corporate Gift Branding.
                 Let's make every gesture count.
               </p>
 
@@ -307,7 +307,7 @@ function ContactForm() {
                     </span>
 
                     <span className="pro-info-value">
-                      corporategiftsbranding@gmail.com
+                      corporategiftbranding@gmail.com
                     </span>
                   </span>
 
@@ -366,9 +366,7 @@ function ContactForm() {
                     </span>
 
                     <span className="pro-info-value">
-                      Dwarka, New Delhi
-                      <br />
-                      Delhi – 110075, India
+                     Kirti Shikhar Building janakpuri Distric center<br></br> New Delhi,110058 India
                     </span>
                   </span>
                 </div>

@@ -32,7 +32,7 @@ function Home() {
       <Intro />
 
 
-         <Video title="Welcome To Corporate Gifts Branding" />
+         <Video title="Welcome To Corporate Gift Branding" />
 
       <Service />
 
@@ -42,7 +42,7 @@ function Home() {
       <Fterproduct />
 
         <StaticImage
-        title="Welcome To Corporate Gifts Branding"
+        title="Welcome To Corporate Gift Branding"
         image={homeBanner}
       />
       
